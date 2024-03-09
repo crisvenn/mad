@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951367047454",
+    "project_id": "crudop-41cbf",
+    "storage_bucket": "crudop-41cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951367047454:android:552baaa1175496e377910f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgv5CD8T0UEp5qDK9v6yf1gah2M2fjT3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
